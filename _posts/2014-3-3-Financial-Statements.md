@@ -1,9 +1,13 @@
 ---
 layout: post
-title: 1. Financial Statements
+title: Financial Statements
 ---
 
 In this segment we'll examine fiancial statements issued by each public company.
+
+  * [Income statement](#consolidated-income-statement)
+  * [Balance sheet](#consolidated-statement-of-financial-position)
+  * [Cash Flow statement](#consolidated-statement-of-cash-flows)
  
 Each company that has its stocks traded on a stock exchange is obliged to issue financial statements so that investors can invest accordingly.
  
@@ -124,7 +128,7 @@ For more information visit [Investopedia](http://www.investopedia.com/terms/i/in
 <br>
 
 
-<!-- # Table of Contents
-  * [Chapter 1](#chapter-1)
-  * [Chapter 2](#chapter-2)
-  * [Chapter 3](#chapter-3) -->
+
+
+<hr>
+_**AK**_

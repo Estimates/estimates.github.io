@@ -37,4 +37,6 @@ To add new posts you're gonna need to create a remote repository on your compute
 3) Go to **_posts** folder name new file yyyy-mm-dd-title.md and start writing.
 
 
+#Questions?
 
+[Open an Issue](https://github.com/Estimates/estimates.github.io/issues/new) and let's chat!

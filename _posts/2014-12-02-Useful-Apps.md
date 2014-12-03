@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Usefull Apps
+title: Useful Apps
 ---
 
 Here are the tools that you might find usefull in your work:
 
-1. **[Actuals calculator](http://estimates.github.io/calculator/)**. To do complicated stuff in a bit more attractive way. Simply resize the window
+1. **[Actuals calculator](http://estimates.github.io/calculator/)**. To do complicated stuff in a bit more attractive way. Simply resize the window.
   
     ![_config.yml]({{ site.baseurl }}/images/calculator.png)
 
@@ -25,13 +25,15 @@ You can access each app's repo on [Github](https://github.com/Estimates) and cha
 
 ##Other open source (free) programs that I've found usefull:
 
-* [Autohotkey](http://www.autohotkey.com/)
+* [Autohotkey](http://www.autohotkey.com/). Fast scriptable desktop automation with hotkeys. Creating your own apps and macros has never been easier.
 
-* [Greenshot](http://getgreenshot.org/)
+* [Greenshot](http://getgreenshot.org/) - a free screenshot tool optimized for productivity.
 
-* [CrossHair](http://crosshair.software.informer.com/)
+* [CrossHair](http://crosshair.software.informer.com/). Displays two static lines only on the current mouse pointer position. Useful when dealing with big tables.
+  
+    ![_config.yml]({{ site.baseurl }}/images/crosshair.png)
 
-* [OnTopReplica](https://ontopreplica.codeplex.com/)
+* [OnTopReplica](https://ontopreplica.codeplex.com/). Clone any of your windows and keep it always on top while working with other windows.
 
 * [Tableau Public](http://www.tableausoftware.com/public/) to prepare yourself for annual reviews. _Tableau Public is a free tool that brings data to life. Easy to use. Spectacularly powerful. Data In. Brilliance Out._
   
@@ -41,12 +43,17 @@ You can access each app's repo on [Github](https://github.com/Estimates) and cha
 
 ### **For managing yourself:**
 
-* [Evernote](https://www.evernote.com/)
+* [Evernote](https://www.evernote.com/). Keep all notes together. Sync across all devices
+  
+    ![_config.yml]({{ site.baseurl }}/images/evernote.png)
 
-* [Trello](https://trello.com/)
+* [Trello](https://trello.com/). Easy, free, flexible, and visual way to manage your projects and organize anything using boards and cards.
+  
+    ![_config.yml]({{ site.baseurl }}/images/trello.png)
 
-* [Coggle](https://coggle.it/)
-
+* [Coggle](https://coggle.it/). Produce beautiful mind maps, quickly and easily. Share them with friends and colleagues to enhance your ideas collaboratively. 
+  
+    ![_config.yml]({{ site.baseurl }}/images/coggle.jpg)
 
 <hr>
 _**AK**_

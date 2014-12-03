@@ -4,12 +4,17 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hello wonderer,
 
-### More Information
+This is the **collaboration first** site where we teem up to work together on our projects appreciating the importance of such notions as **open source** and **collective knowledge**.
+We use [GitHub](https://github.com/) to power our goals and if you're new to Github in [README](https://github.com/Estimates/estimates.github.io/blob/master/README.md) you'll find detailed explanation how to get started and make your first contribution.
 
-A place to include any other types of information that you'd like to include about yourself. 
+_N.B. All preparations have to be done only once, allowing you easy access to source files in any place, proposing your edits and collaborating on projects._
+
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[antonkostiuchkov@gmail.com](mailto:antonkostiuchkov@gmail.com)
+
+

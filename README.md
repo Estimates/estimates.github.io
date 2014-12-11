@@ -1,6 +1,19 @@
 Getting started
 =======
+##Editting
 
+##Step 1) 
+Click on "_posts" and then relevant post to edit it. If you want to change About or Links content in the root directory access about.md or links.md.
+
+##Step 2) Edit
+
+![edit](/images/edit.png "edit")
+
+##Step 3) Commit
+Scroll to  the bootom of the page type your comments and hit commit
+
+
+##If you have user account on Github
 ##Step 1) Fork estimates.github.io to your user repository
 
 Sign up to [GitHub](https://github.com/). _It's extremely easy and **free**._

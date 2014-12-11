@@ -3,7 +3,7 @@ Getting started
 ##Editting
 
 ##Step 1) 
-Click on "_posts" and then relevant post to edit it. If you want to change About or Links content in the root directory access about.md or links.md.
+Click on "_posts" and then relevant post to edit it. If you want to change About or Links content, in the root directory access about.md or links.md. if you want to change this content edit README.MD
 
 ##Step 2) Edit
 
